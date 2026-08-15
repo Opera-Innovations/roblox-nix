@@ -5,6 +5,7 @@ Has support for the following packages/commands
 - Stylua
 - Azul
 - Pesde
+- Zap
 
 # Guide
 To use, just run 
