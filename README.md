@@ -4,7 +4,7 @@ Has support for the following packages/commands
 - Rojo
 - Stylua
 - Azul
-- Psede
+- Pesde
 
 # Guide
 To use, just run 
